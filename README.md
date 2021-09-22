@@ -1,5 +1,5 @@
 # linktrack Google Extention 
 
-![linktrack](/Screenshot.png)
+![linktrack](/images/Screenshot.png)
 
 ## A Google Extention to save tabs link and potential customer or leads . Made using Javascript ♥ .
